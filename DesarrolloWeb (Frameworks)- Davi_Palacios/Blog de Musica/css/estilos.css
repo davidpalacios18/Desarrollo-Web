@@ -1,0 +1,18 @@
+/*Estilo del header*/
+#img-logo{
+  width: 180px;
+}
+@media (min-width:649px ) {
+  #redes-sociales{
+    float: right;
+    margin-top: 150px;
+  }
+}
+
+@media (max-width:648px ) {
+  #redes-sociales{
+    float: center;
+    text-align: center;
+    margin-top: 50px;
+  }
+}
